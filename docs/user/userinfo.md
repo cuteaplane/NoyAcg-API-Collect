@@ -79,6 +79,3 @@ Example Response:
 
 
 
-还有什么要补充的细节吗？Gemini 随时准备待命喵！(✿◡‿◡)
-
-```
