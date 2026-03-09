@@ -63,6 +63,8 @@ Example Response:
 | `userinfo.Uid` | int | 用户 UID |
 | `userinfo.Username` | str | 账户昵称 |
 | `userinfo.Badge` | array | 当前佩戴的勋章列表 |
+| `userinfo.avatar` | str | 头像图片 |
+| `userinfo.Bg` | str | 背景图片 |
 
 ### 2. 失效响应 (Session 过期或未登录)
 
