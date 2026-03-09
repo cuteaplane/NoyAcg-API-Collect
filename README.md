@@ -14,11 +14,11 @@
 ## 目录
 
 ### 认证
-- [NOY_SESSION](./docs/auth/NOY_SESSION.md) - 会话Token
+- [NOY_SESSION](./docs/auths/NOY_SESSION.md) - 会话Token
 
 ### 用户
-- [用户信息查询](./docs/user/info.md) - 积分、勋章、基础资料......
+- [用户信息查询](./docs/user/userinfo.md) - 积分、勋章、基础资料......
 
-### 任务系统
+### 任务系统()
 - [每日签到](./docs/task/signin.md) - 状态预检与执行
 
