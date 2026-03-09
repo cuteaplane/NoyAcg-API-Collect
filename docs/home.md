@@ -14,8 +14,7 @@
 
 * 日收藏 (`favDay`)
 * 日阅读 (`readDay`)
-* 最新发现 (`fs`)
-* 推荐比例 (`proportion`)
+
 
 接口支持通过 **请求头控制 R18 内容过滤**，见`allow-adult` 说明。
 
