@@ -134,7 +134,7 @@
 | `publish_year` | string | 发布年份     | `"2024"`       |
 | `RatingSUM`    | float  | 平均评分     | `9.8`          |
 | `RatingCount`  | int    | 评分人数     | `65`           |
-| `RatingBayes`  | float  | 贝叶斯评分    | `0`            |
+| `RatingBayes`  | float  | 未知   | `0`            |
 
 ---
 
