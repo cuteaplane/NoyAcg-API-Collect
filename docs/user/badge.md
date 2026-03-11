@@ -11,29 +11,14 @@
 
 ## 接口地址
 
-```text
-POST /api/badge
-```
+*地址：```/api/badge```
 
-Base URL
 
-```text
-https://beta.noyteam.online
-```
+* Base URL: ```https://beta.noyteam.online```
 
-完整地址
 
-```text
-https://beta.noyteam.online/api/badge
-```
 
----
-
-# 请求方式
-
-```
-POST
-```
+* 请求方式 ：```POST```
 
 ---
 
@@ -43,17 +28,7 @@ POST
 | ------------ | -- | ----------------------------------- | --------------- |
 | Cookie       | ✔  | `NOY_SESSION=xxxx`                  | 用户登录 Session    |
 | Content-Type | ✔  | `application/x-www-form-urlencoded` | 请求类型            |
-| allow-adult  | ✖  | `false`                             | 成人内容过滤（该接口通常忽略） |
-
----
-
-# 请求参数
-
-无
-
-```
-(empty)
-```
+| allow-adult  | ✖  | `false`                             | 成人内容过滤 |
 
 ---
 
@@ -117,13 +92,9 @@ Badge[]
 
 当前 **用户正在展示的徽章 ID 列表**。
 
-类型
+* 类型：```string[]```
 
-```
-string[]
-```
-
-仅表示 **哪些徽章被展示**。
+* 表示 **哪些徽章被展示**。
 
 ---
 
