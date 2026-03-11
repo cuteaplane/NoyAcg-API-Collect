@@ -20,6 +20,7 @@
 
 ### 用户
 - [用户信息查询](./docs/user/userinfo.md) - 积分、勋章、基础资料......
+- [Badge查询](./docs/user/badge.md) 
 
 ### 任务系统
 - [每日签到相关](./docs/task/signin.md) - 还没写呢
