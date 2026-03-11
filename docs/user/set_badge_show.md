@@ -68,7 +68,6 @@ curl "https://beta.noyteam.online/api/v3/set_badge_show" ^
 * 如果该徽章 **未展示** → 请求后会 **勾选**
 * 如果该徽章 **已展示** → 请求后会 **取消勾选**
 * 请求不存在的id时貌似也会返回ok
-Windows CMD
 
 ```cmd
 curl "https://beta.noyteam.online/api/v3/set_badge_show" ^
