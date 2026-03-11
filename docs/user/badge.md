@@ -11,7 +11,7 @@
 
 ## 接口地址
 
-*地址：```/api/badge```
+* 地址：```/api/badge```
 
 
 * Base URL: ```https://beta.noyteam.online```
