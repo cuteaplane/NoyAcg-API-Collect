@@ -12,16 +12,11 @@
 
 ## 接口地址
 
-```
-POST /api/v3/set_badge_show
-```
+* 地址：```/api/v3/set_badge_show```
 
-完整地址
+* 完整地址：```https://beta.noyteam.online/api/v3/set_badge_show```
 
-```
-https://beta.noyteam.online/api/v3/set_badge_show
-```
-
+* 请求方式：```POST```
 ---
 
 # 请求参数
