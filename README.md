@@ -27,7 +27,7 @@
 ### 社区
 - [获取图床上传凭证](./docs/community/get_image_bucket_token.md) 
 - [上传图片](./docs/community/upload_image.md) 
-- [发帖](./docs/community/send_community.md) - `image/<file>` -> 发帖
+- [发帖](./docs/community/send_community.md) - 
 
 ### 任务系统
 - [每日签到相关](./docs/task/signin.md) - 还没写呢
