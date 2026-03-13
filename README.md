@@ -25,9 +25,8 @@
 - [Badge查询](./docs/user/badge.md)
 
 ### 社区
-- [索引：社区发帖带图三步走](./docs/upload_image.md)
-- [获取图床上传凭证](./docs/community/get_image_bucket_token.md) - `NOY_SESSION` -> `token`
-- [上传图片](./docs/community/upload_image.md) - `token` + `file` -> `file`
+- [获取图床上传凭证](./docs/community/get_image_bucket_token.md) 
+- [上传图片](./docs/community/upload_image.md) 
 - [发帖](./docs/community/send_community.md) - `image/<file>` -> 发帖
 
 ### 任务系统
